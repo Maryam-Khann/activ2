@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html>
 <head><title>Replit code</title></head>
 <body>
 <p style="background-color:blue;">This is replit code</p>
 <p style="background-color:black;">This is paragraph 2</p>
+<p>3rd paragraph</p>
 </body>
 </html>
