@@ -1,0 +1,7 @@
+<html>
+<head><title>Replit code</title></head>
+<body>
+<p style="background-color:blue;">This is replit code</p>
+<p style="background-color:grey;">This is paragraph 2</p>
+</body>
+</html>
